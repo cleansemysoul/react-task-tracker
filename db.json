@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Rendez-vous",
+      "day": "2 Jan 13h30",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Courses",
+      "day": "5 Jan 14h30",
+      "reminder": true
+    },
+    {
+      "text": "Take test",
+      "day": "3 mai 2021",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
